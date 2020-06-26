@@ -13,13 +13,13 @@ Links related to the Super Calm Bros. 3 practice rom:
 
 ## Patches
 
-### [SMB3 patches](#smb3)
+### Super Mario Bros. 3 patches
 
-Generally, SMB3 patches work on SCB3: [Super Mario Bros 3 patch repo is here](https://github.com/narfman0/romhacks/tree/master/Super_Mario_Bros_3)
+Generally, Super Mario Bros. 3 patches work on Super Calm Bros. 3: [Super Mario Bros. 3 patch repo is here](https://github.com/narfman0/romhacks/tree/master/Super_Mario_Bros_3)
 
-### [SCB3 patches](#scb3)
+### Super Calm Bros. 3 patches
 
-The specific [Super Calm Bros 3 patch repo is here](https://github.com/narfman0/romhacks/tree/master/Super_Riff_Bros_3)
+The specific [Super Calm Bros. 3 patch repo is here](https://github.com/narfman0/romhacks/tree/master/Super_Riff_Bros_3)
 
 ## Related
 
