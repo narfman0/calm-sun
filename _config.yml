@@ -1,0 +1,17 @@
+title: Calm Sun
+email: narfman0@gmail.com
+description: >-
+  Calm Sun aggregates Super Calm Bros. 3 resources. It contains
+  information about strategy, videos, tips, and rom changes, mostly
+  focused on RTA.
+baseurl: "/calm-sun"
+url: "https://narfman0.github.io"
+
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
+header_pages:
+  - pages/resources.md
+  - pages/links.md
+  - pages/notes.md
