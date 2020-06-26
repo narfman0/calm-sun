@@ -22,3 +22,6 @@ categories: worlds
 
 # World 8
 ![World 8]({{ site.baseurl }}/assets/worlds/w8.png)
+
+# Warp World
+![Warp World]({{ site.baseurl }}/assets/worlds/w9.png)
