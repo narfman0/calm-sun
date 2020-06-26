@@ -8,14 +8,14 @@ categories: practice roms
 ## ROMs
 
 Links related to the Super Calm Bros. 3 practice rom:
-- [patch link](https://github.com/narfman0/romhacks/tree/master/Super_Riff_Bros_3)
-- [alt link]({{ site.baseurl }}/assets/patches/Super_Riff_Bros._3 v1.21_practice.ips)
+- [patch link](https://github.com/narfman0/romhacks/tree/master/Super_Calm_Bros_3)
+- [alt link]({{ site.baseurl }}/assets/patches/Super_Calm_Bros_1.1_practice.ips)
 
 ## Patches
 
 ### Super Calm Bros. 3 patches
 
-The [Super Calm Bros. 3 patch repo is here](https://github.com/narfman0/romhacks/tree/master/Super_Riff_Bros_3)
+The [Super Calm Bros. 3 patch repo is here](https://github.com/narfman0/romhacks/tree/master/Super_Calm_Bros_3)
 
 ### Super Mario Bros. 3 patches
 
