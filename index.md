@@ -16,9 +16,11 @@ title: "Calm Sun - Super Calm Bros. 3 runner's guide"
 
 [Practice roms]({{ site.baseurl }}{% link pages/practice-roms.md %})
 
-[angry sun, SMB3 runners guide](https://narfman0.github.io/angry-sun/)
+[speedrun.com leaderboards](https://www.speedrun.com/super_calm_bros)
 
 [narfman0s Discord (with scb3 channel)](https://discord.gg/zPTzVFP)
+
+[angry sun, SMB3 runners guide](https://narfman0.github.io/angry-sun/)
 
 ## Advanced
 
