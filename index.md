@@ -18,6 +18,8 @@ title: "Calm Sun - Super Calm Bros. 3 runner's guide"
 
 [angry sun, SMB3 runners guide](https://narfman0.github.io/angry-sun/)
 
+[narfman0s Discord (with scb3 channel)](https://discord.gg/zPTzVFP)
+
 ## Advanced
 
 [Notes]({{ site.baseurl }}{% link pages/notes.md %})
