@@ -7,9 +7,11 @@ categories: practice roms
 
 ## ROMs
 
-Links related to the Super Calm Bros. 3 practice rom:
+Super Calm Bros. 3 ips:
 - [patch link](https://github.com/narfman0/romhacks/blob/master/Super_Calm_Bros_3/Super_Calm_Bros_1.1.ips?raw=true)
-- [alt link]({{ site.baseurl }}/assets/patches/Super_Calm_Bros_1.1_practice.ips)
+
+Super Calm Bros. 3 practice rom ips:
+- [patch link]({{ site.baseurl }}/assets/patches/Super_Calm_Bros_1.1_practice.ips)
 
 ## Patches
 
